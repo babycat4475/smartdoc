@@ -1,0 +1,12 @@
+{"category": "invoice", "text": "收到的电子票据, 编号A9921, 开票2026-09-01, 应付款项 500元, 含增值税"}
+{"category": "contract", "text": "保密协议 NDA between Alpha Ltd (disclosing party) and Beta Inc (receiving party), effective 2026-06-01, governing law: PRC"}
+{"category": "resume", "text": "赵六\nzhaoliu@qq.com\n华中科技大学 硕士\n研究: NLP\nGitHub: github.com/zhaoliu"}
+{"category": "paper", "text": "Attention Is All You Need. We propose the Transformer... NeurIPS 2017. References below."}
+{"category": "receipt", "text": "瑞幸咖啡 取餐码8821 生椰拿铁x1 实付9.9元"}
+{"category": "report", "text": "2026年度用户增长分析: 数据、归因与建议。战略部出品。"}
+{"category": "notice", "text": "温馨提示: 明晚8点宿舍楼停电检修, 请提前充电。宿管中心"}
+{"category": "other", "text": "今晚吃什么? 火锅还是烧烤"}
+{"category": "resume", "text": "陈七 求职意向: 数据分析 教育: 暨南大学统计学本科 熟练SQL/Python 联系方式 13711112222"}
+{"category": "contract", "text": "劳动合同书 用人单位: 广州某公司 劳动者: 王五 合同期限三年 试用期六个月"}
+{"category": "invoice", "text": "INVOICE #2026-889\nBill To: ACME Corp\nDate: 2026-08-14\nTotal Due: $1,200.00\nVAT 13%"}
+{"category": "notice", "text": "关于召开家长会的通知 兹定于11月28日下午3点举行, 请准时参加。校办公室"}
