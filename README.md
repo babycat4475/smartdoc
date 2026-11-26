@@ -8,6 +8,8 @@
 FastAPI + any OpenAI-compatible LLM + SQLite, with a deterministic rule-engine
 fallback so the service works even without an API key.
 
+🔗 **Live Demo**: https://thehun-would-ended-textbook.trycloudflare.com （临时隧道，在线时可玩；离线时按下方 Quickstart 本地运行）
+
 粘贴一段发票 / 合同 / 简历 / 论文文本，SmartDoc 返回类别 + 按类别契约抽取的结构化字段（JSON）。
 
 ## Features
