@@ -130,6 +130,7 @@ docker run -p 8000:8000 -e SMARTDOC_LLM_API_KEY=sk-... -v smartdoc-data:/data sm
 
 ## Roadmap
 
+- [x] PostgreSQL + Redis 存储/缓存升级（见 [`postgres-redis` 分支](https://github.com/babycat4475/smartdoc/tree/postgres-redis)，接口 parity + fakeredis 测试）
 - [ ] 批量异步任务（Celery/ARQ）与 webhook 回调
 - [ ] PDF/图片 OCR 前置（pypdf / RapidOCR）
 - [ ] 字段级置信度与人工复核队列
