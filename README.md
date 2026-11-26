@@ -1,5 +1,9 @@
 # SmartDoc
 
+[![tests](https://github.com/babycat4475/smartdoc/actions/workflows/tests.yml/badge.svg)](https://github.com/babycat4475/smartdoc/actions/workflows/tests.yml)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 **LLM-powered document classification & structured extraction service.**
 FastAPI + any OpenAI-compatible LLM + SQLite, with a deterministic rule-engine
 fallback so the service works even without an API key.
